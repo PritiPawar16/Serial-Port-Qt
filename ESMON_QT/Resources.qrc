@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icon"/>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/exit.png</file>
+        <file>images/clear.ico</file>
+        <file>images/settings-icon.png</file>
+        <file>images/appIcon.png</file>
+        <file>images/Theta.png</file>
+        <file>images/appIcon.ico</file>
+        <file>images/TRAIN_ENGINE_INDIA2.jpg</file>
+        <file>images/3580154.png</file>
+        <file>images/666201.png</file>
+        <file>images/circle-shape-3d-rendering-png.webp</file>
+        <file>images/Backup_of_new240.png</file>
+        <file>images/redoff.png</file>
+        <file>images/redon.png</file>
+        <file>appIcon.ico</file>
+        <file>images/loginImage.png</file>
+        <file>images/speedimage.cdr-removebg-preview.png</file>
+    </qresource>
+</RCC>
